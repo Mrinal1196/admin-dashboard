@@ -1,0 +1,16 @@
+
+.container1{
+    margin-top:50px;
+    width: 600px;
+    border: 2px ridge black;
+    box-shadow: crimson 10px;
+    border-radius: 15px;
+    padding:50px;
+    margin-top:60px;
+    margin-left:400px;
+}
+#texture{
+    color: red;
+    text-align: left;
+    font-weight: bold;
+}

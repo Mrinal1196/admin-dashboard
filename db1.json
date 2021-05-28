@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Arup",
+      "company": "TCS",
+      "dateOfCreation": [
+        "2021-05-18"
+      ],
+      "gender": "male",
+      "DOB": [
+        "1997-10-15"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Anish",
+      "company": [
+        "Cognizant"
+      ],
+      "dateOfCreation": "15-Feb-2006",
+      "gender": "male",
+      "DOB": "06-Oct-1986"
+    },
+    {
+      "id": 3,
+      "name": "Vivek",
+      "company": "Capgemini",
+      "dateOfCreation": "31-Aug-2009",
+      "gender": "male",
+      "DOB": "19-Jun-1985"
+    },
+    {
+      "id": 4,
+      "name": "Anita",
+      "company": "Infosys",
+      "dateOfCreation": "09-Apr-2011",
+      "gender": "female",
+      "DOB": "11-Jan-1990"
+    },
+    {
+      "id": 5,
+      "name": "Naina",
+      "company": "Accenture",
+      "dateOfCreation": "02-Oct-2014",
+      "gender": "female",
+      "DOB": "17-Sep-1992"
+    }
+  ]
+}
